@@ -1,0 +1,9 @@
+1-4 SIL  
+5-933 butter_pan  
+934-1254 crack_egg  
+1255-1653 stirfry_egg  
+1654-1771 add_saltnpepper  
+1772-2328 stirfry_egg  
+2329-2453 take_plate  
+2454-2931 put_egg2plate  
+2932-2951 SIL  

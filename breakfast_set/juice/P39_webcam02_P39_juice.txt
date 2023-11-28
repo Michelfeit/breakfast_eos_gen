@@ -1,0 +1,11 @@
+1-58 SIL  
+59-183 take_plate  
+184-238 take_knife  
+239-408 cut_orange  
+409-448 take_squeezer  
+449-1298 squeeze_orange  
+1299-1338 take_glass  
+1339-1538 pour_juice  
+1539-1688 squeeze_orange  
+1689-1768 pour_juice  
+1769-1811 SIL  

@@ -1,0 +1,7 @@
+1-22 SIL  
+23-504 butter_pan  
+505-743 crack_egg  
+744-1642 fry_egg  
+1643-2104 fry_egg  
+2105-2297 put_egg2plate  
+2298-2356 SIL  

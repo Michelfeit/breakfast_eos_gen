@@ -1,0 +1,8 @@
+1-129 SIL  
+130-194 take_plate  
+195-239 take_knife  
+240-337 cut_orange  
+338-823 squeeze_orange  
+824-922 take_glass  
+923-1140 pour_juice  
+1141-1202 SIL  

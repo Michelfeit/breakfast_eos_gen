@@ -1,0 +1,7 @@
+1-1 SIL  
+2-186 crack_egg  
+187-1094 fry_egg  
+1095-2368 fry_egg  
+2369-2634 take_plate  
+2635-2809 put_egg2plate  
+2810-2875 SIL  

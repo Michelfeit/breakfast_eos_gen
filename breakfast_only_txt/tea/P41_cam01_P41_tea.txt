@@ -1,0 +1,7 @@
+1-31 SIL  
+32-72 take_cup  
+73-568 add_teabag  
+569-916 pour_water  
+917-964 spoon_sugar  
+965-1063 stir_tea  
+1064-1239 SIL  

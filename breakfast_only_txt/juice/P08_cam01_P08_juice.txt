@@ -1,0 +1,7 @@
+1-21 SIL  
+22-111 take_knife  
+112-261 cut_orange  
+262-851 squeeze_orange  
+852-1026 take_glass  
+1027-1158 pour_juice  
+1159-1252 SIL  

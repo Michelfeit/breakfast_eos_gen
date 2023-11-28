@@ -1,0 +1,13 @@
+1-222 SIL  
+223-382 take_bowl  
+383-2502 cut_fruit  
+2503-2632 put_fruit2bowl  
+2633-2852 cut_fruit  
+2853-2942 put_fruit2bowl  
+2943-3807 cut_fruit  
+3808-3852 put_fruit2bowl  
+3853-3952 cut_fruit  
+3953-3982 put_fruit2bowl  
+3983-4547 cut_fruit  
+4548-4582 put_fruit2bowl  
+4583-4853 SIL  

@@ -1,0 +1,6 @@
+1-4 SIL  
+5-99 take_cup  
+100-319 spoon_powder  
+320-669 pour_milk  
+670-949 stir_milk  
+950-1007 SIL  

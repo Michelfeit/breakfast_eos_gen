@@ -1,0 +1,7 @@
+1-38 SIL  
+39-292 crack_egg  
+293-896 add_saltnpepper  
+897-1927 stirfry_egg  
+1928-2409 take_plate  
+2410-2619 put_egg2plate  
+2620-2653 SIL  

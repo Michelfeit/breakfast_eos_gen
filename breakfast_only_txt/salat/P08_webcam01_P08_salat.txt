@@ -1,0 +1,15 @@
+1-31 SIL  
+32-76 take_bowl  
+77-656 peel_fruit  
+657-1106 cut_fruit  
+1107-1156 put_fruit2bowl  
+1157-1261 cut_fruit  
+1262-1371 put_fruit2bowl  
+1372-2271 cut_fruit  
+2272-2331 put_fruit2bowl  
+2332-2431 cut_fruit  
+2432-2491 put_fruit2bowl  
+2492-2681 cut_fruit  
+2682-2751 put_fruit2bowl  
+2752-2911 stir_fruit  
+2912-2989 SIL  

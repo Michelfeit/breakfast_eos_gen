@@ -1,0 +1,11 @@
+1-18 SIL  
+19-34 take_knife  
+35-73 take_plate  
+74-1844 cut_fruit  
+1845-1887 take_bowl  
+1888-2171 put_fruit2bowl  
+2172-2231 cut_fruit  
+2232-3031 peel_fruit  
+3032-3360 cut_fruit  
+3361-3461 put_fruit2bowl  
+3462-3492 SIL  

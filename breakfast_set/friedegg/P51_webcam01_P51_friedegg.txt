@@ -1,0 +1,9 @@
+1-43 SIL  
+44-300 butter_pan  
+301-1052 butter_pan  
+1053-1249 crack_egg  
+1250-1697 add_saltnpepper  
+1698-2631 fry_egg  
+2632-2722 take_plate  
+2723-2881 put_egg2plate  
+2882-2915 SIL  

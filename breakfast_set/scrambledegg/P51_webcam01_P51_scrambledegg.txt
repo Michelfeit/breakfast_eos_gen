@@ -1,0 +1,12 @@
+1-41 SIL  
+42-639 butter_pan  
+640-855 take_bowl  
+856-966 crack_egg  
+967-1441 add_saltnpepper  
+1442-1772 butter_pan  
+1773-1944 stir_egg  
+1945-2089 pour_egg2pan  
+2090-2934 stirfry_egg  
+2935-3020 take_plate  
+3021-3390 put_egg2plate  
+3391-3407 SIL  

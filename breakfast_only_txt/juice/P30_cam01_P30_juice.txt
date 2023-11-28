@@ -1,0 +1,8 @@
+1-20 SIL  
+21-145 cut_orange  
+146-442 squeeze_orange  
+443-522 take_glass  
+523-592 pour_juice  
+593-867 squeeze_orange  
+868-1027 pour_juice  
+1028-1169 SIL  

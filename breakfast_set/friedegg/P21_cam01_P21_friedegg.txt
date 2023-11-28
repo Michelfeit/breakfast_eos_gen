@@ -1,0 +1,7 @@
+1-44 SIL  
+45-475 crack_egg  
+476-929 fry_egg  
+930-1201 add_saltnpepper  
+1202-1721 fry_egg  
+1722-1878 put_egg2plate  
+1879-1984 SIL  

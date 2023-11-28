@@ -1,0 +1,9 @@
+1-71 SIL  
+72-195 crack_egg  
+196-481 add_saltnpepper  
+482-650 stir_egg  
+651-769 pour_oil  
+770-933 pour_egg2pan  
+934-1435 stirfry_egg  
+1436-1565 put_egg2plate  
+1566-1735 SIL  

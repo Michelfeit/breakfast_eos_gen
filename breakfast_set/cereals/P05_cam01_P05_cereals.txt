@@ -1,0 +1,6 @@
+1-13 SIL  
+14-246 take_bowl  
+247-624 pour_cereals  
+625-1124 pour_milk  
+1125-1158 stir_cereals  
+1159-1186 SIL  

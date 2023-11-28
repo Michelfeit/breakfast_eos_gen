@@ -1,0 +1,7 @@
+1-163 SIL  
+164-525 crack_egg  
+526-2220 stirfry_egg  
+2221-2655 add_saltnpepper  
+2656-2969 stirfry_egg  
+2970-3116 put_egg2plate  
+3117-3344 SIL  

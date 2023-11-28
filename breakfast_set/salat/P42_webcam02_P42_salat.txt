@@ -1,0 +1,7 @@
+1-16 SIL  
+17-76 take_plate  
+77-1799 peel_fruit  
+1800-3217 cut_fruit  
+3218-3317 take_bowl  
+3318-3567 put_fruit2bowl  
+3568-3608 SIL  

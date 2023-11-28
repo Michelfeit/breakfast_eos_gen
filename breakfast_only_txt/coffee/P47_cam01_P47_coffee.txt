@@ -1,0 +1,6 @@
+1-16 SIL  
+17-147 pour_coffee  
+148-320 pour_milk  
+321-559 spoon_sugar  
+560-629 stir_coffee  
+630-646 SIL  

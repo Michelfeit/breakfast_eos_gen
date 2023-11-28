@@ -1,0 +1,9 @@
+1-31 SIL  
+32-121 take_plate  
+122-1341 peel_fruit  
+1342-1951 cut_fruit  
+1952-2051 put_fruit2bowl  
+2052-2861 cut_fruit  
+2862-3011 put_fruit2bowl  
+3012-3191 stir_fruit  
+3192-3222 SIL  

@@ -1,0 +1,7 @@
+1-35 SIL  
+36-122 take_cup  
+123-524 spoon_powder  
+525-604 pour_milk  
+605-809 stir_milk  
+810-967 pour_milk  
+968-1084 SIL  

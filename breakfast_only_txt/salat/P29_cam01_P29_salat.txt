@@ -1,0 +1,10 @@
+1-31 SIL  
+32-786 peel_fruit  
+787-1036 cut_fruit  
+1037-1206 peel_fruit  
+1207-1466 cut_fruit  
+1467-1616 put_fruit2bowl  
+1617-2151 peel_fruit  
+2152-2466 cut_fruit  
+2467-2675 put_fruit2bowl  
+2676-2727 SIL  

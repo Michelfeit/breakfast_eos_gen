@@ -1,0 +1,8 @@
+1-46 SIL  
+47-164 take_plate  
+165-248 take_glass  
+249-415 cut_orange  
+416-444 take_squeezer  
+445-1010 squeeze_orange  
+1011-1213 pour_juice  
+1214-1261 SIL  

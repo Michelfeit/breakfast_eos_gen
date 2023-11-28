@@ -1,0 +1,6 @@
+1-156 SIL  
+157-337 crack_egg  
+338-3060 fry_egg  
+3061-3158 take_plate  
+3159-3248 put_egg2plate  
+3249-3302 SIL  

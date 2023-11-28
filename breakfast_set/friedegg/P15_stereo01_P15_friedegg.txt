@@ -1,0 +1,6 @@
+1-1 SIL  
+2-186 crack_egg  
+187-829 take_plate  
+830-1950 fry_egg  
+1951-2276 put_egg2plate  
+2277-2365 SIL  

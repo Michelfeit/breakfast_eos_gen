@@ -1,0 +1,9 @@
+1-6 SIL  
+7-106 take_plate  
+107-1446 cut_fruit  
+1447-2085 peel_fruit  
+2086-2515 cut_fruit  
+2516-2750 take_bowl  
+2751-2970 put_fruit2bowl  
+2971-3120 stir_fruit  
+3121-3140 SIL  

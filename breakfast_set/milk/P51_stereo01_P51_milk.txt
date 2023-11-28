@@ -1,0 +1,7 @@
+1-11 SIL  
+12-518 spoon_powder  
+519-798 pour_milk  
+799-868 stir_milk  
+869-1134 spoon_powder  
+1135-1298 stir_milk  
+1299-1313 SIL  

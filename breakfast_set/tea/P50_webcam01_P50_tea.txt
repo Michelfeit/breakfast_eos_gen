@@ -1,0 +1,6 @@
+1-2 SIL  
+3-187 take_cup  
+188-377 add_teabag  
+378-626 pour_water  
+627-995 spoon_sugar  
+996-1036 SIL  

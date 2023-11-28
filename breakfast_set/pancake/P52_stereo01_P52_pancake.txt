@@ -1,0 +1,9 @@
+1-333 SIL  
+334-529 crack_egg  
+530-1038 butter_pan  
+1039-1303 spoon_flour  
+1304-2128 stir_dough  
+2129-2279 pour_milk  
+2280-2470 stir_dough  
+2471-2705 pour_dough2pan  
+2706-5353 SIL  

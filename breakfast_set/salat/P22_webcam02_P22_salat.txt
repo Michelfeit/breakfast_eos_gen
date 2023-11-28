@@ -1,0 +1,10 @@
+1-20 SIL  
+21-1630 cut_fruit  
+1631-1735 take_bowl  
+1736-1845 put_fruit2bowl  
+1846-2575 cut_fruit  
+2576-2625 put_fruit2bowl  
+2626-3030 cut_fruit  
+3031-3065 put_fruit2bowl  
+3066-3315 stir_fruit  
+3316-3382 SIL  

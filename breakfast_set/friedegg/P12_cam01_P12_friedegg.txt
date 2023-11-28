@@ -1,0 +1,8 @@
+1-28 SIL  
+29-263 crack_egg  
+264-594 take_plate  
+595-1726 fry_egg  
+1727-2924 fry_egg  
+2925-3363 fry_egg  
+3364-4145 put_egg2plate  
+4146-4167 SIL  

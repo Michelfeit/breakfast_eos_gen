@@ -1,0 +1,11 @@
+1-63 SIL  
+64-121 take_bowl  
+122-458 crack_egg  
+459-963 stir_egg  
+964-1200 pour_oil  
+1201-1551 pour_egg2pan  
+1552-1696 add_saltnpepper  
+1697-2039 stirfry_egg  
+2040-2119 take_plate  
+2120-2404 put_egg2plate  
+2405-2453 SIL  

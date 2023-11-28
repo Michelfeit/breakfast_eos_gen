@@ -1,0 +1,6 @@
+1-437 SIL  
+438-636 crack_egg  
+637-1117 stir_egg  
+1118-1568 pour_egg2pan  
+1569-1965 stirfry_egg  
+1966-2560 SIL  

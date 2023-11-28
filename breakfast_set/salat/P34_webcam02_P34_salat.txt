@@ -1,0 +1,8 @@
+1-60 SIL  
+61-1010 cut_fruit  
+1011-1075 put_fruit2bowl  
+1076-1240 cut_fruit  
+1241-1835 cut_fruit  
+1836-1885 put_fruit2bowl  
+1886-1965 stir_fruit  
+1966-2243 SIL  

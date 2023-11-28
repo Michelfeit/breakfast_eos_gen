@@ -1,0 +1,7 @@
+1-12 SIL  
+13-119 pour_oil  
+120-326 crack_egg  
+327-1791 fry_egg  
+1792-2750 take_plate  
+2751-2851 put_egg2plate  
+2852-2904 SIL  

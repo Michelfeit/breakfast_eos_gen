@@ -1,0 +1,6 @@
+1-21 SIL  
+22-131 take_cup  
+132-870 spoon_powder  
+871-1070 pour_milk  
+1071-1230 stir_milk  
+1231-1245 SIL  

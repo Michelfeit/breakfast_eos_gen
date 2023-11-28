@@ -1,0 +1,14 @@
+1-71 SIL  
+72-146 cut_fruit  
+147-746 peel_fruit  
+747-886 cut_fruit  
+887-936 put_fruit2bowl  
+937-1116 cut_fruit  
+1117-1446 peel_fruit  
+1447-1576 cut_fruit  
+1577-1626 put_fruit2bowl  
+1627-2156 cut_fruit  
+2157-2196 put_fruit2bowl  
+2197-2496 cut_fruit  
+2497-2581 put_fruit2bowl  
+2582-2720 SIL  

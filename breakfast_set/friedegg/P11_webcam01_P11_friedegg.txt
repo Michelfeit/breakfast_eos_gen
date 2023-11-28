@@ -1,0 +1,8 @@
+1-66 SIL  
+67-310 butter_pan  
+311-4043 crack_egg  
+4044-5007 add_saltnpepper  
+5008-8131 fry_egg  
+8132-8192 take_plate  
+8193-8257 put_egg2plate  
+8258-8347 SIL  

@@ -1,0 +1,6 @@
+1-385 SIL  
+386-599 pour_oil  
+600-1382 crack_egg  
+1383-4007 fry_egg  
+4008-4123 put_egg2plate  
+4124-4270 SIL  

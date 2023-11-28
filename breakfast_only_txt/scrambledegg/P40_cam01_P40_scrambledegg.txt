@@ -1,0 +1,9 @@
+1-1 SIL  
+2-399 crack_egg  
+400-584 add_saltnpepper  
+585-733 stir_egg  
+734-932 pour_egg2pan  
+933-1542 stirfry_egg  
+1543-1633 take_plate  
+1634-1828 put_egg2plate  
+1829-1860 SIL  

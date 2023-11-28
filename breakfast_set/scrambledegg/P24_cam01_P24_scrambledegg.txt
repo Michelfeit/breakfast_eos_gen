@@ -1,0 +1,7 @@
+1-961 SIL  
+962-1280 pour_oil  
+1281-2148 crack_egg  
+2149-4151 stirfry_egg  
+4152-4297 take_plate  
+4298-4642 put_egg2plate  
+4643-4716 SIL  

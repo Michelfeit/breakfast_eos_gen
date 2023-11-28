@@ -1,0 +1,11 @@
+1-48 SIL  
+49-376 pour_oil  
+377-637 crack_egg  
+638-1270 add_saltnpepper  
+1271-2601 fry_egg  
+2602-3638 fry_egg  
+3639-4362 fry_egg  
+4363-5506 fry_egg  
+5507-6799 take_plate  
+6800-6871 put_egg2plate  
+6872-6936 SIL  

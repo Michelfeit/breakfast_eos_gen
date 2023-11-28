@@ -1,0 +1,7 @@
+1-10 SIL  
+11-145 take_plate  
+146-285 cut_orange  
+286-907 squeeze_orange  
+908-1032 take_glass  
+1033-1547 pour_juice  
+1548-1614 SIL  

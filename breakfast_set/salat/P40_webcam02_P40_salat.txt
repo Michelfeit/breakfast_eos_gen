@@ -1,0 +1,9 @@
+1-26 SIL  
+27-81 take_plate  
+82-891 cut_fruit  
+892-931 take_bowl  
+932-1026 put_fruit2bowl  
+1027-1636 peel_fruit  
+1637-2071 cut_fruit  
+2072-2156 put_fruit2bowl  
+2157-2197 SIL  

@@ -1,0 +1,8 @@
+1-6 SIL  
+7-138 take_eggs  
+139-517 pour_oil  
+518-779 crack_egg  
+780-2139 fry_egg  
+2140-3193 fry_egg  
+3194-3460 put_egg2plate  
+3461-3578 SIL  

@@ -1,0 +1,7 @@
+1-1 SIL  
+2-143 crack_egg  
+144-438 stirfry_egg  
+439-681 add_saltnpepper  
+682-1089 stirfry_egg  
+1090-1322 put_egg2plate  
+1323-1365 SIL  

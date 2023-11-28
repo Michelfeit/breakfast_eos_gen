@@ -1,0 +1,13 @@
+1-31 SIL  
+32-386 take_bowl  
+387-1341 peel_fruit  
+1342-2381 cut_fruit  
+2382-2506 put_fruit2bowl  
+2507-2586 cut_fruit  
+2587-3051 peel_fruit  
+3052-3406 cut_fruit  
+3407-3856 peel_fruit  
+3857-4071 cut_fruit  
+4072-4156 put_fruit2bowl  
+4157-4216 stir_fruit  
+4217-4233 SIL  

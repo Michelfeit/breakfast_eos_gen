@@ -1,0 +1,7 @@
+1-41 SIL  
+42-119 take_cup  
+120-334 pour_coffee  
+335-611 spoon_sugar  
+612-971 pour_milk  
+972-1124 stir_coffee  
+1125-1127 SIL  

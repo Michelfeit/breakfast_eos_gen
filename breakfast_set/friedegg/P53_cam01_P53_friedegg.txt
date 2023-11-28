@@ -1,0 +1,8 @@
+1-1 SIL  
+2-183 crack_egg  
+184-477 add_saltnpepper  
+478-884 fry_egg  
+885-1013 take_plate  
+1014-1808 fry_egg  
+1809-1923 put_egg2plate  
+1924-1927 SIL  

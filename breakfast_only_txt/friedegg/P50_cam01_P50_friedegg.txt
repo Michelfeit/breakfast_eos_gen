@@ -1,0 +1,8 @@
+1-9 SIL  
+10-364 butter_pan  
+365-629 crack_egg  
+630-959 fry_egg  
+960-1281 add_saltnpepper  
+1282-1462 take_plate  
+1463-1572 put_egg2plate  
+1573-1601 SIL  

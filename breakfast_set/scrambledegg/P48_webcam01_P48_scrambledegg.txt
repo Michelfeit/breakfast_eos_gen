@@ -1,0 +1,9 @@
+1-1 SIL  
+2-697 butter_pan  
+698-1403 crack_egg  
+1404-1853 stirfry_egg  
+1854-2212 add_saltnpepper  
+2213-3017 stirfry_egg  
+3018-3167 take_plate  
+3168-3417 put_egg2plate  
+3418-3465 SIL  

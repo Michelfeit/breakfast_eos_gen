@@ -1,0 +1,12 @@
+1-61 SIL  
+62-237 take_knife  
+238-1200 peel_fruit  
+1201-1450 cut_fruit  
+1451-1485 put_fruit2bowl  
+1486-2315 cut_fruit  
+2316-2345 put_fruit2bowl  
+2346-2405 cut_fruit  
+2406-2445 put_fruit2bowl  
+2446-2580 cut_fruit  
+2581-2620 put_fruit2bowl  
+2621-2712 SIL  

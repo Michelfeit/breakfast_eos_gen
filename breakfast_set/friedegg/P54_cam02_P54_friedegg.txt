@@ -1,0 +1,7 @@
+1-22 SIL  
+23-307 crack_egg  
+308-741 add_saltnpepper  
+742-838 take_plate  
+839-1454 fry_egg  
+1455-1523 put_egg2plate  
+1524-1559 SIL  

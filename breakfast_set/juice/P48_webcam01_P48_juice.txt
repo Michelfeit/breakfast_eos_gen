@@ -1,0 +1,9 @@
+1-60 SIL  
+61-200 take_plate  
+201-297 take_knife  
+298-432 cut_orange  
+433-492 take_squeezer  
+493-919 squeeze_orange  
+920-1084 take_glass  
+1085-1204 pour_juice  
+1205-1253 SIL  

@@ -1,0 +1,12 @@
+1-6 SIL  
+7-56 take_knife  
+57-218 cut_orange  
+219-583 squeeze_orange  
+584-701 pour_juice  
+702-997 squeeze_orange  
+998-1106 pour_juice  
+1107-1628 squeeze_orange  
+1629-1761 pour_juice  
+1762-2067 squeeze_orange  
+2068-2166 pour_juice  
+2167-2242 SIL  

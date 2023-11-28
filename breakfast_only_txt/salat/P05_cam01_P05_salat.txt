@@ -1,0 +1,12 @@
+1-20 SIL  
+21-80 take_plate  
+81-205 take_knife  
+206-1920 peel_fruit  
+1921-2090 take_bowl  
+2091-2300 cut_fruit  
+2301-2320 put_fruit2bowl  
+2321-2390 cut_fruit  
+2391-2415 put_fruit2bowl  
+2416-3445 cut_fruit  
+3446-3715 put_fruit2bowl  
+3716-3847 SIL  

@@ -1,0 +1,10 @@
+1-1 SIL  
+2-179 pour_oil  
+180-546 crack_egg  
+547-847 add_saltnpepper  
+848-1021 stir_egg  
+1022-1193 pour_egg2pan  
+1194-2157 stirfry_egg  
+2158-2233 take_plate  
+2234-2615 put_egg2plate  
+2616-2700 SIL  
